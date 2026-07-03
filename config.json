@@ -1,0 +1,76 @@
+{
+  "adminEmail": "undefined@github.com",
+  "name": "Giorgos Durieux",
+  "siteUrl": "https://geroutskis.com",
+  "isAvailable": false,
+  "showStatusBadge": false,
+  "customStatusText": {
+    "el": "",
+    "en": ""
+  },
+  "profileImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=300&q=80",
+  "favicon": "🚀",
+  "defaultLang": "el",
+  "defaultTheme": "cyberpunk",
+  "seo": {
+    "title": {
+      "el": "LinkSpace | Valentinos Geroutskis",
+      "en": "LinkSpace | Valentinos Geroutskis"
+    },
+    "description": {
+      "el": "Ο κόσμος μου σε ένα link. Δες τα projects μου, συνδέσου μαζί μου στα social media και ανακάλυψε τι φτιάχνω.",
+      "en": "My world in one link. Explore my projects, connect with me on social media and discover what I'm building."
+    },
+    "keywords": "LinkSpace, Valentinos Geroutskis, Software Engineer, Web Developer, Links, Portfolio"
+  },
+  "location": {
+    "el": "Αθήνα, Ελλάδα",
+    "en": "Athens, Greece"
+  },
+  "timezone": "Europe/Athens",
+  "githubUsername": "vgeroutskis",
+  "githubRepoUrl": "https://github.com/vgeroutskis/linkspace",
+  "githubStatsFallback": {
+    "followers": 12,
+    "reposCount": 8
+  },
+  "contactEmail": "info@geroutskis.com",
+  "calendlyUrl": "https://calendly.com/giorgosdurieux/30min",
+  "links": [
+    {
+      "url": "https://www.instagram.com/giorgosdurieux",
+      "icon": "fab fa-instagram",
+      "cssClass": "instagram",
+      "langKey": "instagram",
+      "tooltipKey": "tooltip-instagram",
+      "external": true
+    },
+    {
+      "url": "https://www.linkedin.com/in/george-durieux/",
+      "icon": "fab fa-linkedin",
+      "cssClass": "linkedin",
+      "langKey": "linkedin",
+      "tooltipKey": "tooltip-linkedin",
+      "external": true
+    },
+    {
+      "url": "https://github.com/GeorgeDurieux",
+      "icon": "fab fa-github",
+      "cssClass": "github",
+      "langKey": "github",
+      "tooltipKey": "tooltip-github",
+      "external": true
+    },
+    {
+      "url": "#",
+      "icon": "fa-solid fa-address-card",
+      "cssClass": "vcard",
+      "langKey": "save-contact",
+      "tooltipKey": "tooltip-vcard",
+      "external": false,
+      "action": "vcard"
+    }
+  ],
+  "GOOGLE_CLIENT_ID": "961938932307-s2ofhoqrm0qcjbrds8klgjjshpku3oii.apps.googleusercontent.com",
+  "GOOGLE_ANALYTICS_ID": "G-3975PTPNYY"
+}
