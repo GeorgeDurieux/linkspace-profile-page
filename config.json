@@ -1,7 +1,19 @@
 {
-  "adminEmail": "undefined@github.com",
-  "name": "Giorgos Durieux",
+  "adminEmail": "GeorgeDurieux@github.com",
+  "name": "Valentinos Geroutskis",
+  "bio": {
+    "el": "Μηχανικός Λογισμικού | Λάτρης της Τεχνολογίας",
+    "en": "Software Engineer | Tech Enthusiast"
+  },
   "siteUrl": "https://geroutskis.com",
+  "layout": [
+    "profile",
+    "links",
+    "actions",
+    "techstack",
+    "github",
+    "portfolio"
+  ],
   "isAvailable": false,
   "showStatusBadge": false,
   "customStatusText": {
@@ -26,6 +38,14 @@
   "location": {
     "el": "Αθήνα, Ελλάδα",
     "en": "Athens, Greece"
+  },
+  "skillsTitle": {
+    "el": "Γλώσσες",
+    "en": "Languages"
+  },
+  "portfolioTitle": {
+    "el": "Πρόσφατα Projects",
+    "en": "Latest Projects"
   },
   "timezone": "Europe/Athens",
   "githubUsername": "vgeroutskis",
