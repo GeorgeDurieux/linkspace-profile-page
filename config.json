@@ -11,7 +11,7 @@
   "profileImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=300&q=80",
   "favicon": "🚀",
   "defaultLang": "el",
-  "defaultTheme": "cyberpunk",
+  "defaultTheme": "neon",
   "seo": {
     "title": {
       "el": "LinkSpace | Valentinos Geroutskis",
@@ -35,10 +35,10 @@
     "reposCount": 8
   },
   "contactEmail": "info@geroutskis.com",
-  "calendlyUrl": "https://calendly.com/giorgosdurieux/30min",
+  "calendlyUrl": "https://calendly.com/vgeroutskis/30min",
   "links": [
     {
-      "url": "https://www.instagram.com/giorgosdurieux",
+      "url": "https://www.instagram.com/valentinosgr",
       "icon": "fab fa-instagram",
       "cssClass": "instagram",
       "langKey": "instagram",
@@ -46,7 +46,7 @@
       "external": true
     },
     {
-      "url": "https://www.linkedin.com/in/george-durieux/",
+      "url": "https://www.linkedin.com/in/valentinos-geroutskis/",
       "icon": "fab fa-linkedin",
       "cssClass": "linkedin",
       "langKey": "linkedin",
@@ -54,7 +54,7 @@
       "external": true
     },
     {
-      "url": "https://github.com/GeorgeDurieux",
+      "url": "https://github.com/vgeroutskis",
       "icon": "fab fa-github",
       "cssClass": "github",
       "langKey": "github",
